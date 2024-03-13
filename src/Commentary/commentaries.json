@@ -1,0 +1,107 @@
+[
+  {
+    "idCommentary": 1,
+    "idMovie": 1,
+    "pseudo": "Utilisateur1",
+    "content": "Ce film était incroyable !",
+    "note": 5
+  },
+  {
+    "idCommentary": 2,
+    "idMovie": 2,
+    "pseudo": "Utilisateur2",
+    "content": "J'ai adoré l'intrigue.",
+    "note": 4
+  },
+  {
+    "idCommentary": 3,
+    "idMovie": 2,
+    "pseudo": "Utilisateur3",
+    "content": "Un film intéressant.",
+    "note": 3
+  },
+  {
+    "idCommentary": 4,
+    "idMovie": 3,
+    "pseudo": "Utilisateur4",
+    "content": "Les effets spéciaux étaient époustouflants.",
+    "note": 4
+  },
+  {
+    "idCommentary": 5,
+    "idMovie": 4,
+    "pseudo": "Utilisateur5",
+    "content": "Je recommande vivement ce film !",
+    "note": 5
+  },
+  {
+    "idCommentary": 6,
+    "idMovie": 5,
+    "pseudo": "Utilisateur6",
+    "content": "Un classique moderne.",
+    "note": 4
+  },
+  {
+    "idCommentary": 7,
+    "idMovie": 6,
+    "pseudo": "Utilisateur7",
+    "content": "Pas mal, mais j'aurais aimé plus de développement des personnages.",
+    "note": 3
+  },
+  {
+    "idCommentary": 8,
+    "idMovie": 7,
+    "pseudo": "Utilisateur8",
+    "content": "Une expérience cinématographique unique.",
+    "note": 5
+  },
+  {
+    "idCommentary": 9,
+    "idMovie": 8,
+    "pseudo": "Utilisateur9",
+    "content": "J'ai été surpris par la fin.",
+    "note": 4
+  },
+  {
+    "idCommentary": 10,
+    "idMovie": 9,
+    "pseudo": "Utilisateur10",
+    "content": "Un film qui laisse à réfléchir.",
+    "note": 4
+  },
+  {
+    "idCommentary": 11,
+    "idMovie": 10,
+    "pseudo": "Utilisateur11",
+    "content": "Mon film préféré de tous les temps !",
+    "note": 5
+  },
+  {
+    "idCommentary": 12,
+    "idMovie": 11,
+    "pseudo": "Utilisateur12",
+    "content": "Un film captivant du début à la fin.",
+    "note": 5
+  },
+  {
+    "idCommentary": 13,
+    "idMovie": 12,
+    "pseudo": "Utilisateur13",
+    "content": "J'ai été déçu par ce film.",
+    "note": 2
+  },
+  {
+    "idCommentary": 14,
+    "idMovie": 13,
+    "pseudo": "Utilisateur14",
+    "content": "À voir absolument !",
+    "note": 4
+  },
+  {
+    "idCommentary": 15,
+    "idMovie": 13,
+    "pseudo": "Utilisateur15",
+    "content": "Un film qui mérite d'être vu plusieurs fois.",
+    "note": 4
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "titre": "Avengers: Endgame",
+    "studio": "Marvel Studios",
+    "note": 4.8,
+    "genre": "Superhero",
+    "image": "avengers_endgame.png",
+    "releaseYear": "2019",
+    "favoris": "TRUE",
+    "description": "Avengers: Endgame is a superhero film produced by Marvel Studios. It was released in 2019 and is a significant part of the Marvel Cinematic Universe (MCU)."
+  },
+  {
+    "id": 2,
+    "titre": "Black Panther",
+    "studio": "Marvel Studios",
+    "note": 4.6,
+    "genre": "Superhero",
+    "image": "black_panther.jpg",
+    "releaseYear": "2018",
+    "favoris": "TRUE",
+    "description": "Black Panther is a superhero film produced by Marvel Studios. It was released in 2018 and features the character T'Challa, the king of Wakanda."
+  },
+  {
+    "id": 3,
+    "titre": "Guardians of the Galaxy",
+    "studio": "Marvel Studios",
+    "note": 4.4,
+    "genre": "Superhero",
+    "image": "guardians_of_the_galaxy.jpg",
+    "releaseYear": "2014",
+    "favoris": "TRUE",
+    "description": "Guardians of the Galaxy is a superhero film produced by Marvel Studios. It was released in 2014 and follows a group of intergalactic misfits."
+  },
+  {
+    "id": 4,
+    "titre": "Spider-Man: Far From Home",
+    "studio": "Marvel Studios",
+    "note": 4.5,
+    "genre": "Superhero",
+    "image": "spider_man_far_from_home.jpg",
+    "releaseYear": "2019",
+    "favoris": "TRUE",
+    "description": "Spider-Man: Far From Home is a superhero film produced by Marvel Studios. It was released in 2019 and features the character Peter Parker."
+  },
+  {
+    "id": 5,
+    "titre": "Thor: Ragnarok",
+    "studio": "Marvel Studios",
+    "note": 4.3,
+    "genre": "Superhero",
+    "image": "thor_ragnarok.jpg",
+    "releaseYear": "2017",
+    "favoris": "FALSE",
+    "description": "Thor: Ragnarok is a superhero film produced by Marvel Studios. It was released in 2017 and follows the character Thor."
+  },
+  {
+    "id": 6,
+    "titre": "The Shawshank Redemption",
+    "studio": "Castle Rock Entertainment",
+    "note": 4.9,
+    "genre": "Drama",
+    "image": "shawshank_redemption.jpg",
+    "releaseYear": "1994",
+    "favoris": "FALSE",
+    "description": "The Shawshank Redemption is a drama film produced by Castle Rock Entertainment. It was released in 1994 and is based on the novella Rita Hayworth and Shawshank Redemption by Stephen King."
+  },
+  {
+    "id": 7,
+    "titre": "The Green Mile",
+    "studio": "Castle Rock Entertainment",
+    "note": 4.8,
+    "genre": "Drama",
+    "image": "green_mile.jpg",
+    "releaseYear": "1999",
+    "favoris": "FALSE",
+    "description": "The Green Mile is a drama film produced by Castle Rock Entertainment. It was released in 1999 and is based on the novel by Stephen King."
+  },
+  {
+    "id": 8,
+    "titre": "The Dark Knight",
+    "studio": "Warner Bros. Pictures",
+    "note": 4.7,
+    "genre": "Action",
+    "image": "dark_knight.jpg",
+    "releaseYear": "2008",
+    "favoris": "FALSE",
+    "description": "The Dark Knight is an action film produced by Warner Bros. Pictures. It was released in 2008 and is the second installment of Christopher Nolan's Batman trilogy."
+  },
+  {
+    "id": 9,
+    "titre": "Inception",
+    "studio": "Warner Bros. Pictures",
+    "note": 4.6,
+    "genre": "Action",
+    "image": "inception.jpg",
+    "releaseYear": "2010",
+    "favoris": "FALSE",
+    "description": "Inception is an action film produced by Warner Bros. Pictures. It was released in 2010 and is directed by Christopher Nolan, exploring the concept of dreams within dreams."
+  },
+  {
+    "id": 10,
+    "titre": "Finding Nemo",
+    "studio": "Pixar Animation Studios",
+    "note": 4.6,
+    "genre": "Animation",
+    "image": "finding_nemo.jpg",
+    "releaseYear": "2003",
+    "favoris": "FALSE",
+    "description": "Finding Nemo is an animated film produced by Pixar Animation Studios. It was released in 2003 and follows the journey of a clownfish named Marlin to find his son Nemo."
+  },
+  {
+    "id": 11,
+    "titre": "Toy Story",
+    "studio": "Pixar Animation Studios",
+    "note": 4.5,
+    "genre": "Animation",
+    "image": "toy_story.jpg",
+    "releaseYear": "1995",
+    "favoris": "FALSE",
+    "description": "Toy Story is an animated film produced by Pixar Animation Studios. It was released in 1995 and is the first feature-length film created entirely by computer-generated animation."
+  },
+  {
+    "id": 12,
+    "titre": "The Matrix",
+    "studio": "Warner Bros. Pictures",
+    "note": 4.5,
+    "genre": "Science Fiction",
+    "image": "the_matrix.jpg",
+    "releaseYear": "1999",
+    "favoris": "FALSE",
+    "description": "The Matrix is a science fiction film produced by Warner Bros. Pictures. It was released in 1999 and explores a dystopian future where reality is simulated by machines."
+  },
+  {
+    "id": 13,
+    "titre": "Blade Runner",
+    "studio": "Warner Bros. Pictures",
+    "note": 4.4,
+    "genre": "Science Fiction",
+    "image": "blade_runner.jpg",
+    "releaseYear": "1982",
+    "favoris": "FALSE",
+    "description": "Blade Runner is a science fiction film produced by Warner Bros. Pictures. It was released in 1982 and is based on Philip K. Dick's novel 'Do Androids Dream of Electric Sheep?'"
+  }
+]
